@@ -8,8 +8,10 @@
 ### functions
   - [ ] Reward
   - [ ] Loss
-  - [ ] Update
+  - [ ] Remember
   - [ ] Learn
+  - [ ] Action
+  - [ ] Get_state
 
 ### object classes - referring to all objects in the simulation
   - [ ] construct robot
